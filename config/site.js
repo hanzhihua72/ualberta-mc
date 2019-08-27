@@ -22,7 +22,7 @@ module.exports = {
 	backgroundColor: '#2b2e3c',
 
 	// Your information
-	avatar: '/logos/lekoarts.png',
+	avatar: '/logos/UA-COLOUR.png',
 	name: 'UAlberta Minecraft',
 	location: 'Edmonton',
 	socialMedia: [

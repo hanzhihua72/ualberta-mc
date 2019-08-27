@@ -10,10 +10,10 @@ A portfolio starter for [Gatsby](https://www.gatsbyjs.org/). The target audience
 
 [![CircleCI](https://circleci.com/gh/LekoArts/gatsby-starter-portfolio-emilia.svg?style=svg)](https://circleci.com/gh/LekoArts/gatsby-starter-portfolio-emilia) [![Netlify Status](https://api.netlify.com/api/v1/badges/5da7d9e1-9b91-44c5-b23d-b47cab98c50d/deploy-status)](https://app.netlify.com/sites/portfolio-emilia/deploys)
 
-- Focus on big images
-- Dark theme
-- Image grid powered by CSS Grid
-- Page Transitions & Animations
+-   Focus on big images
+-   Dark theme
+-   Image grid powered by CSS Grid
+-   Page Transitions & Animations
 
 ## Why?
 
@@ -23,43 +23,43 @@ I hope you like my starters and create something awesome! To see some of my work
 
 Also check out the other _gatsby-starter-portfolio_:
 
-- [gatsby-starter-portfolio-emma](https://github.com/LekoArts/gatsby-starter-portfolio-emma)
-- [gatsby-starter-portfolio-bella](https://github.com/LekoArts/gatsby-starter-portfolio-bella)
-- [gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara)
-- [gatsby-starter-portfolio-jodie](https://github.com/LekoArts/gatsby-starter-portfolio-jodie)
+-   [gatsby-starter-portfolio-emma](https://github.com/LekoArts/gatsby-starter-portfolio-emma)
+-   [gatsby-starter-portfolio-bella](https://github.com/LekoArts/gatsby-starter-portfolio-bella)
+-   [gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara)
+-   [gatsby-starter-portfolio-jodie](https://github.com/LekoArts/gatsby-starter-portfolio-jodie)
 
 Check out the [Gatsby Starter Portfolio Overview](https://gatsby-starter-portfolio.netlify.com/)!
 
 ## Features
 
-- Configurable
-  - Use the site.js to easily change the most important information
-  - Use the theme.js to configure your CSS
-- Projects in MDX ([gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx))
-- Image Grid with CSS Grid
-- Page transitions & animations with [`react-spring`](https://github.com/react-spring/react-spring)
-- [HeroPatterns](http://www.heropatterns.com/) Header
-- Styled Components
-- Cypress for End-to-End testing
-- Google Analytics Support
-- SEO
-  - Sitemap
-  - Schema.org JSONLD
-  - OpenGraph Tags
-  - Twitter Tags
-- Offline Support
-- WebApp Manifest Support
-- Responsive images
-  - The right image size for every screen size
-  - Image Lazy-Loading
-  - WebP Support
+-   Configurable
+    -   Use the site.js to easily change the most important information
+    -   Use the theme.js to configure your CSS
+-   Projects in MDX ([gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx))
+-   Image Grid with CSS Grid
+-   Page transitions & animations with [`react-spring`](https://github.com/react-spring/react-spring)
+-   [HeroPatterns](http://www.heropatterns.com/) Header
+-   Styled Components
+-   Cypress for End-to-End testing
+-   Google Analytics Support
+-   SEO
+    -   Sitemap
+    -   Schema.org JSONLD
+    -   OpenGraph Tags
+    -   Twitter Tags
+-   Offline Support
+-   WebApp Manifest Support
+-   Responsive images
+    -   The right image size for every screen size
+    -   Image Lazy-Loading
+    -   WebP Support
 
 ## Getting Started
 
 Check your development environment! You'll need [Node.js](https://nodejs.org/en/), the [Gatsby CLI](https://www.gatsbyjs.org/docs/) and [node-gyp](https://github.com/nodejs/node-gyp#installation) installed. The official Gatsby website also lists two articles regarding this topic:
 
-- [Gatsby on Windows](https://www.gatsbyjs.org/docs/gatsby-on-windows/)
-- [Check your development environment](https://www.gatsbyjs.org/tutorial/part-zero/)
+-   [Gatsby on Windows](https://www.gatsbyjs.org/docs/gatsby-on-windows/)
+-   [Check your development environment](https://www.gatsbyjs.org/tutorial/part-zero/)
 
 To copy and install this starter run this command (with "project-name" being the name of your folder you wish to install it in):
 
@@ -71,10 +71,10 @@ npm run dev
 
 ### Adding a new project
 
-- Create a new folder in `content/projects`
-- Create a new MDX file, add the frontmatter (use the same date format)
-- **Optional:** Add text under the frontmatter (will be placed before the images)
-- Add your images in the folder (they will automatically be placed in the document). **Format:** JPG/PNG/TIF/WEBP
+-   Create a new folder in `content/projects`
+-   Create a new MDX file, add the frontmatter (use the same date format)
+-   **Optional:** Add text under the frontmatter (will be placed before the images)
+-   Add your images in the folder (they will automatically be placed in the document). **Format:** JPG/PNG/TIF/WEBP
 
 If you're still unsure have a look at the already existing examples.
 
@@ -119,7 +119,7 @@ module.exports = {
   backgroundColor: '#2b2e3c',
 
   // Your information
-  avatar: '/logos/lekoarts.png',
+  avatar: '/logos/UA-COLOUR.png',
   name: 'LekoArts',
   location: 'Germany',
   socialMedia: [
