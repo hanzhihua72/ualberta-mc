@@ -23,7 +23,7 @@ module.exports = {
 
 	// Your information
 	avatar: '/logos/logo.png',
-	name: 'UAlberta Minecraft',
+	name: 'University of Alberta Minecraft',
 	location: 'ip: play.ualberta-mc.club',
 	socialMedia: [
 		{
