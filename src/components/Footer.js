@@ -12,23 +12,8 @@ const Content = styled.footer`
 
 const Footer = () => (
 	<Content>
-		&copy; 2019 by Gatsby Starter Portfolio - Emilia. Pictures by{' '}
-		<a
-			href="https://unsplash.com/"
-			target="_blank"
-			rel="noopener noreferrer"
-		>
-			Unsplash
-		</a>
-		. Design by{' '}
-		<a
-			href="https://www.lekoarts.de/en"
-			target="_blank"
-			rel="noopener noreferrer"
-		>
-			LekoArts
-		</a>
-		.<br />
+		Send me your in-game screenshots to zhhan@ualberta.ca and I'll add them
+		to the site!
 	</Content>
 );
 
