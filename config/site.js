@@ -22,21 +22,21 @@ module.exports = {
 	backgroundColor: '#2b2e3c',
 
 	// Your information
-	avatar: '/logos/UA-COLOUR.png',
+	avatar: '/logos/logo.png',
 	name: 'UAlberta Minecraft',
-	location: 'Edmonton',
+	location: 'ip: play.ualberta-mc.club',
 	socialMedia: [
 		{
 			url: '#',
-			name: 'Twitter'
+			name: 'Discord'
 		},
 		{
-			url: '#',
-			name: 'Instagram'
+			url: 'https://www.reddit.com/r/uAlberta/',
+			name: 'Reddit'
 		},
 		{
-			url: 'https://www.lekoarts.de/en',
-			name: 'Homepage'
+			url: 'https://alberta.campuslabs.ca/engage/organization/MSS',
+			name: 'Sponsored by MSS'
 		}
 	]
 };
