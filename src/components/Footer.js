@@ -13,7 +13,7 @@ const Content = styled.footer`
 const Footer = () => (
 	<Content>
 		Send me your in-game screenshots to zhhan@ualberta.ca and I'll add them
-		to the site!
+		to the site! Photos should preferably be taken in fullscreen.
 	</Content>
 );
 
