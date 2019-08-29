@@ -33,10 +33,6 @@ module.exports = {
 		{
 			url: 'https://www.reddit.com/r/uAlberta/',
 			name: 'Reddit'
-		},
-		{
-			url: 'https://alberta.campuslabs.ca/engage/organization/MSS',
-			name: 'Sponsored by MSS'
 		}
 	]
 };
