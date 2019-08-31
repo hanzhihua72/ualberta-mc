@@ -27,7 +27,7 @@ module.exports = {
 	location: 'ip: play.ualberta-mc.club',
 	socialMedia: [
 		{
-			url: '#',
+			url: 'https://discord.gg/A7KFqaM',
 			name: 'Discord'
 		},
 		{
